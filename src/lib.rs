@@ -1,3 +1,4 @@
+/// https://en.wikipedia.org/wiki/Fenwick_tree
 pub struct BinaryIndexedTree {
     sums: Vec<i32>,
 }
